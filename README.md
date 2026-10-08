@@ -69,6 +69,10 @@ A full-stack manufacturing management system designed around problems I actually
 - 🤖 AI-assisted quotations and workflows
 - 📈 Business analytics
 
+- ### Projects so far
+
+- [Inventory Tracker](https://github.com/dishantbvaghela/inventory-tracker) - first step toward Smart Factory Manager
+
 **Status:** `🚧 Building`
 
 ---
